@@ -25,3 +25,6 @@ class Kernel extends ConsoleKernel
         require base_path('routes/console.php');
     }
 }
+{
+    require base_path('notifikasi.php');
+}
